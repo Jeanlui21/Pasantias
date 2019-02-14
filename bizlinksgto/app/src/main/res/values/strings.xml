@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bizlinks SGTO</string>
+    <string name="workerShift">Escoja horario</string>
+
+    <string-array name="shiftAlternatives">
+        <item>Dia</item>
+        <item>Noche</item>
+    </string-array>
+</resources>
